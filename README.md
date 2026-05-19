@@ -37,7 +37,7 @@ git clone https://github.com/NOuhmou/carte-profil-css.git
 
 ````bash
 carte-profil-css/
-├── index.html      # Structure HTML
+├── carte.html      # Structure HTML
 ├── style.css       # Styles CSS
 └── carte.png  # Aperçu
 ````
